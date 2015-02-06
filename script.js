@@ -12,7 +12,7 @@ function strike(elem){
 		// if element has not been checked off 
 		$(elem).css("text-decoration","line-through");
 	}
-}; 
+} 
 
 var count = 0; // for id names 
 
